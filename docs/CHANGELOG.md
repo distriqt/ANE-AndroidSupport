@@ -1,5 +1,10 @@
 
 
+###### 2015.11.18
+
+Update to latest Android support lib
+
+
 ###### 2015.11.05
 
 Updated to latest SDK
