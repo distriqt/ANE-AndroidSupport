@@ -1,5 +1,10 @@
 
 
+######  2016.07.16
+
+Updated to be compatible with latest Core ANE
+
+
 ###### 2015.11.18
 
 Update to latest Android support lib
