@@ -1,5 +1,10 @@
 
 
+###### 2016.11.22 [v24.1.0]
+
+Update to version 24.1.0 of the Android support libraries
+
+
 ###### 2016.08.10 [v24.0.0]
 
 Updated to v24.0.0
