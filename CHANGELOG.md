@@ -1,10 +1,5 @@
 
 
-###### 2016.12.15 [v25.1.0]
-
-Updated to version 25.1.0 of the Android Support Libraries
-
-
 ###### 2016.11.22 [v24.1.0]
 
 Update to version 24.1.0 of the Android support libraries
