@@ -1,5 +1,10 @@
 
 
+###### 2017.01.06 [v24.1.1]
+
+Added card view v7 android support ANE
+
+
 ###### 2016.12.15 [v24.1.1]
 
 Update to version 24.1.1 of the Android support libraries
