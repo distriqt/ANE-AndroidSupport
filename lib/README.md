@@ -5,6 +5,7 @@ The following summarises the functionality in each of the ANEs.
 Most are directly related to one ANE however several are shared amongst multiple extensions 
 and will be in used in more the future.
 
+
 ## V4
 
 This is the most commonly used ANE. It contains the Support v4 library which is the most 
@@ -21,11 +22,22 @@ It contains a range of backward compatibility utilities that are used in many of
 >
 
 
+
+## CardViewV7
+
+This ANE is used to create Material Design style display cards. 
+
+- [com.distriqt.FacebookAPI](https://airnativeextensions.com/extension/com.distriqt.FacebookAPI)
+
+
+
 ## CustomTabs
 
 This ANE is used by the Native Web View ANE to display custom chrome tabs on Android.
 
 - [com.distriqt.NativeWebView](https://airnativeextensions.com/extension/com.distriqt.NativeWebView)
+- [com.distriqt.FacebookAPI](https://airnativeextensions.com/extension/com.distriqt.FacebookAPI)
+
 
 
 ## AppCompatV7
