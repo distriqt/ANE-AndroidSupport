@@ -1,5 +1,10 @@
 
 
+###### 2017.09.19 [v26.1.0]
+
+Update to version v26.1.0
+
+
 ###### 2017.05.30 [v25.3.1]
 
 Update to version v25.3.1
