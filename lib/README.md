@@ -45,8 +45,3 @@ This ANE is used by the Native Web View ANE to display custom chrome tabs on And
 This ANE provides some advanced application compatibility and layout components. 
 
 This will be used in some of our ANEs soon.
-
-
-## MultiDex
-
-
