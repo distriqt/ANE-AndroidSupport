@@ -1,5 +1,10 @@
 
 
+###### 2018.03.10 [v27.1.0]
+
+Update to version v27.1.0
+
+
 ###### 2018.02.22 [v26.1.0]
 
 Updated Android Support libs to v26.1.0 with all correct dependencies
