@@ -44,4 +44,22 @@ This ANE is used by the Native Web View ANE to display custom chrome tabs on And
 
 This ANE provides some advanced application compatibility and layout components. 
 
-This will be used in some of our ANEs soon.
+- [com.distriqt.Dialog](https://airnativeextensions.com/extension/com.distriqt.Dialog)
+- [com.distriqt.FacebookAPI](https://airnativeextensions.com/extension/com.distriqt.FacebookAPI)
+
+
+## Design
+
+This ANE provides some advanced design, layout and transition functionality. 
+
+- [com.distriqt.FacebookAPI](https://airnativeextensions.com/extension/com.distriqt.FacebookAPI)
+
+
+## RecyclerViewV7
+
+This ANE provides access to a RecyclerView component used in some SDKs to create views. 
+
+- [com.distriqt.FacebookAPI](https://airnativeextensions.com/extension/com.distriqt.FacebookAPI)
+
+
+
