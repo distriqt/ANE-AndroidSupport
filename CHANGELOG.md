@@ -1,5 +1,10 @@
 
 
+###### 2018.03.24 [v27.0.2]
+
+v27.0.2 release, adding design and recyclerview libraries
+
+
 ###### 2018.03.10 [v27.1.0]
 
 Update to version v27.1.0
