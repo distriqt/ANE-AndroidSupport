@@ -1,5 +1,12 @@
 
 
+###### 2018.08.08 [v27.0.2]
+
+```
+Added the install referrer ANE and updated dependencies
+```
+
+
 ###### 2018.03.24 [v27.0.2]
 
 v27.0.2 release, adding design and recyclerview libraries
