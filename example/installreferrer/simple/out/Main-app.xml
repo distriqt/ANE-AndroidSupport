@@ -1,0 +1,30 @@
+<application xmlns="http://ns.adobe.com/air/application/33.1">
+  <id>Main</id>
+  <filename>Main</filename>
+  <name>Main</name>
+  <versionNumber>0.0.0</versionNumber>
+  <initialWindow>
+    <content>Main.swf</content>
+    <visible>true</visible>
+    <autoOrients>true</autoOrients>
+    <fullScreen>true</fullScreen>
+    <requestedDisplayResolution>high</requestedDisplayResolution>
+  </initialWindow>
+  <android>
+    <manifestAdditions><![CDATA[<manifest android:installLocation="auto">
+                <uses-permission android:name="android.permission.INTERNET"/>
+
+                <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+
+
+                <application android:enabled="true">
+
+                </application>
+            </manifest>]]></manifestAdditions>
+  </android>
+  <extensions>
+    <extensionID>com.distriqt.Core</extensionID>
+    <extensionID>androidx.core</extensionID>
+    <extensionID>com.android.installreferrer</extensionID>
+  </extensions>
+</application>

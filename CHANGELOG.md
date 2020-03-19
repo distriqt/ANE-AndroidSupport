@@ -1,5 +1,12 @@
 
 
+###### 2020.03.19 [v1.0.0]
+
+```
+Added install referrer functionality and docs
+```
+
+
 ###### 2020.03.18 [v1.0.0]
 
 ```
