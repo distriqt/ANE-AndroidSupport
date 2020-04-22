@@ -1,5 +1,12 @@
 
 
+###### 2020.04.22 [v1.0.1]
+
+```
+Added androidx constraintlayout library and removed legacy extensions
+```
+
+
 ###### 2020.03.19 [v1.0.0]
 
 ```
