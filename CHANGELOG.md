@@ -1,5 +1,12 @@
 
 
+###### 2020.05.04 [v1.2.0]
+
+```
+Updated to latest androidx releases
+```
+
+
 ###### 2020.04.22 [v1.0.1]
 
 ```
