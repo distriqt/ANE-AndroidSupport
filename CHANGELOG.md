@@ -1,5 +1,18 @@
 
 
+###### 2020.09.01 [v1.3.0]
+
+```
+Added new dependencies
+ - androidx.exifinterface
+ - com.google.guava
+ - io.grpc 
+ - io.reativex
+
+Updated protobuf and androidx libs
+```
+
+
 ###### 2020.05.04 [v1.2.0]
 
 ```
