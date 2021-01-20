@@ -1,5 +1,12 @@
 
 
+###### 2021.01.20 [v1.4.0]
+
+```
+Added androidx room and work dependencies, updates for several support libs
+```
+
+
 ###### 2020.09.01 [v1.3.0]
 
 ```
