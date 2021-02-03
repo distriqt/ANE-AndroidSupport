@@ -1,5 +1,12 @@
 
 
+###### 2021.02.03 [v1.5.0]
+
+```
+Updated to latest Android libraries
+```
+
+
 ###### 2021.01.20 [v1.4.0]
 
 ```

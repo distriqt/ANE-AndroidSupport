@@ -6,16 +6,13 @@ As you are a subscribed user of our extensions there are several special support
 
 ## Check the documentation
 
-### [Wiki](../../../wiki)
+### [Documentation Site](https://docs.airnativeextensions.com/)
 
-The best place to start is in the wiki. This forms the most up-to-date documentation for the extensions and is an important place to start using the extensions.
+The best place to start is in the documentation. This forms the most up-to-date documentation for the extensions and is an important place to start using the extensions.
 
 Common issues include
-- Check you have all the required support extensions in the [Add the Extension](../../../wiki/i.Add-the-Extension) section;
+- Check you have all the required support extensions in the "Add the Extension" section;
 - Check you have correctly added and updated any manifest additions (Android) and Info Additions / Entitlements (iOS); 
-- Check you have called `init( APP_KEY );` with your application key
-
-[Wiki Home](../../../wiki)
 
 
 ### Reference
