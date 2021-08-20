@@ -1,5 +1,12 @@
 
 
+###### 2021.08.20 [v1.6.0]
+
+```
+AIR packages for android dependency libraries
+```
+
+
 ###### 2021.02.03 [v1.5.0]
 
 ```

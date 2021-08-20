@@ -4,12 +4,12 @@
 | com.google.dagger | 2.24.0 | 2.24.0 |  |
 | com.google.android.datatransport | 2.2.1 | 2.2.1 |  |
 | com.google.code.gson | 2.8.6 | 2.8.6 |  |
-| com.google.guava | 1.0.013 | 28.1 |  |
+| com.google.guava | 1.0.015 | 28.1 |  |
 | com.google.android.material | 1.0.0 | 1.0.0 |  |
 | com.google.protobuflite | 3.14.0 | 3.14.0 |  |
 | io.grpc | 1.28.0 | 1.28.0 |  |
 | com.android.installreferrer | 1.0.0 | 1.0.0 |  |
-| com.jetbrains.kotlin | 1.3.72 | 1.3.72 |  |
+| com.jetbrains.kotlin | 1.4.10 | 1.4.10 |  |
 | io.reactivex | 2.0.2 | 2.0.2 |  |
 | androidx.appcompat | 1.2.0 | 1.2.0 |  |
 | androidx.browser | 1.3.0 | 1.3.0 |  |
