@@ -4,7 +4,7 @@
 | com.google.dagger | 2.24.0 | 2.24.0 |  |
 | com.google.android.datatransport | 2.2.1 | 2.2.1 |  |
 | com.google.code.gson | 2.8.6 | 2.8.6 |  |
-| com.google.guava | 1.0.015 | 28.1 |  |
+| com.google.guava | 1.0.17 | 28.1 |  |
 | com.google.android.material | 1.0.0 | 1.0.0 |  |
 | com.google.protobuflite | 3.14.0 | 3.14.0 |  |
 | io.grpc | 1.28.0 | 1.28.0 |  |
