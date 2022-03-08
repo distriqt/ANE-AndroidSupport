@@ -3,7 +3,7 @@
     <id>Main</id>
     <filename>Main</filename>
     <name>Main</name>
-    <versionNumber>0.0.0</versionNumber>
+    <versionNumber>1.0.0</versionNumber>
 
     <initialWindow>
         <content>SWF file name is set automatically at compile time</content>
