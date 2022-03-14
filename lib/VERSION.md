@@ -2,6 +2,7 @@
 
 | Extension | Version | Android Lib | iOS Lib |
 | --- | --- | --- | --- |
+| com.bumptech.glide | 4.12.0 | 4.12.0 |  |
 | com.google.dagger | 2.27.0 | 2.27.0 |  |
 | com.google.android.datatransport | 3.0.0 | 3.0.0 |  |
 | com.google.code.gson | 2.8.6 | 2.8.6 |  |
