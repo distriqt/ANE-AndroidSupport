@@ -1,3 +1,9 @@
+###### 2022.03.15 [v2.2.1]
+
+```
+Update core extension lifecycle lib to latest compatible release
+```
+
 ###### 2022.03.14 [v2.2.0]
 
 ```

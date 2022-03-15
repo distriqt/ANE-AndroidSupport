@@ -18,7 +18,7 @@
 | androidx.cardview | 1.0.0 | 1.0.0 |  |
 | androidx.concurrent | 1.1.0 | 1.1.0 |  |
 | androidx.constraintlayout | 2.1.3 | 2.1.3 |  |
-| androidx.core | 1.6.0 | 1.6.0 |  |
+| androidx.core | 1.6.1 | 1.6.0 |  |
 | androidx.emoji2 | 1.0.1 | 1.0.1 |  |
 | androidx.exifinterface | 1.3.3 | 1.3.3 |  |
 | androidx.multidex | 2.0.1 | 2.0.1 |  |
