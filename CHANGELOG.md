@@ -1,3 +1,10 @@
+###### 2022.06.23 [v2.2.2]
+
+```
+feat(build,scripts): correct case issue in android context/extension classes, update build scripts, correct version of dependencies
+feat(ios): remove all minimum ios version flags to ensure no conflicts
+```
+
 ###### 2022.03.15 [v2.2.1]
 
 ```
