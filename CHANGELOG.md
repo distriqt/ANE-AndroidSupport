@@ -1,3 +1,9 @@
+###### 2022.11.18 [v2.3.0]
+
+```
+feat(androidx.browser): update androidx.browser lib to v1.4.0
+```
+
 ###### 2022.06.23 [v2.2.2]
 
 ```

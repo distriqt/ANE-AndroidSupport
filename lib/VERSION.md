@@ -14,7 +14,7 @@
 | com.jetbrains.kotlin | 1.4.321 | 1.4.32 |  |
 | io.reactivex | 2.0.201 | 2.0.2 |  |
 | androidx.appcompat | 1.4.101 | 1.4.1 |  |
-| androidx.browser | 1.3.1 | 1.3.0 |  |
+| androidx.browser | 1.4.0 | 1.4.0 |  |
 | androidx.cardview | 1.0.1 | 1.0.0 |  |
 | androidx.concurrent | 1.1.1 | 1.1.0 |  |
 | androidx.constraintlayout | 2.1.301 | 2.1.3 |  |
