@@ -11,7 +11,7 @@
 | com.google.protobuflite | 3.17.201 | 3.17.2 |  |
 | io.grpc | 1.41.1 | 1.41.0 |  |
 | com.android.installreferrer | 1.0.1 | 1.0.0 |  |
-| com.jetbrains.kotlin | 1.4.321 | 1.4.32 |  |
+| com.jetbrains.kotlin | 1.5.300 | 1.5.30 |  |
 | io.reactivex | 2.0.201 | 2.0.2 |  |
 | androidx.appcompat | 1.4.101 | 1.4.1 |  |
 | androidx.browser | 1.4.0 | 1.4.0 |  |
