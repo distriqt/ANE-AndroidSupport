@@ -1,3 +1,32 @@
+###### 2023.03.27 [v2.4.0]
+
+```
+feat(kotlin): update to v1.8.10
+feat(browser): update sdk v1.5.0
+feat(constraintlayout): update sdk v2.1.4
+feat(emoji2): update sdk v1.3.0
+feat(exifinterface): update sdk v1.3.6
+feat(appcompat): update sdk v1.6.1
+feat(core): update sdk v1.9.0
+feat(installreferrer): update sdk v2.2
+feat(grpc): update internal sdk perfmark-api-0.23.0
+feat(material): update sdk v1.6.0
+feat(guava): update internal sdk animal-sniffer-annotations-1.19
+feat(gson): update sdk v2.8.9
+feat(datatransport): update internal sdk transport-runtime v3.1.8
+feat(dagger): update sdk v2.28.3
+feat(work): update sdk v2.8.1
+feat(room): update sdk v2.5.1
+feat(recyclerview): update sdk v1.3.0
+chore(cardview): update build
+chore(concurrent): update build
+chore(reactivex): update build
+chore(protobuf-lite): update build
+chore(glide): update build
+chore(vectordrawable): update build
+chore(transition): update build
+```
+
 ###### 2022.12.19 [v2.3.1]
 
 ```
