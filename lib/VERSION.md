@@ -5,7 +5,7 @@
 | com.bumptech.glide | 4.12.2 | 4.12.0 |  |
 | com.google.dagger | 2.28.300 | 2.28.3 |  |
 | com.google.android.datatransport | 3.0.2 | 3.0.0 |  |
-| com.google.code.gson | 2.8.900 | 2.8.9 |  |
+| com.google.code.gson | 2.8.901 | 2.8.9 |  |
 | com.google.guava | 31.0.102 | 31.0.1 |  |
 | com.google.android.material | 1.6.0 | 1.6.0 |  |
 | com.google.protobuflite | 3.17.202 | 3.17.2 |  |

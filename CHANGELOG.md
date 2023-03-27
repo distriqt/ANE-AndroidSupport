@@ -1,6 +1,18 @@
 ###### 2023.03.27 [v2.4.0]
 
 ```
+feat(gson): migrate to new gradle dependencies
+```
+
+###### 2023.03.27 [v2.4.0]
+
+```
+feat(gson): migrate to new gradle dependencies
+```
+
+###### 2023.03.27 [v2.4.0]
+
+```
 feat(kotlin): update to v1.8.10
 feat(browser): update sdk v1.5.0
 feat(constraintlayout): update sdk v2.1.4
