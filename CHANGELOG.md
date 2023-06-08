@@ -1,3 +1,11 @@
+###### 2023.06.09 [v2.5.0]
+
+```
+feat(androidx.healthconnect): new dependency for health connect related features v1.1.0-alpha01
+feat(guava): add kotlin extension support
+fix(core): correct missing dependency from build
+```
+
 ###### 2023.03.27 [v2.4.0]
 
 ```
