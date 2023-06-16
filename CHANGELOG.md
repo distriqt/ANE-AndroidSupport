@@ -1,3 +1,9 @@
+###### 2023.06.16 [v2.5.1]
+
+```
+fix: correct additional jar dependency names which were conflicting in particular extension combinations
+```
+
 ###### 2023.06.09 [v2.5.0]
 
 ```
