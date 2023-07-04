@@ -1,3 +1,12 @@
+###### 2023.07.04 [v2.5.2]
+
+```
+feat(datatransport): update internals to latest version 3.1.9
+feat(protobuf-lite): update to latest version 3.21.11
+feat(grpc): update to latest version 1.52.1
+feat(all): update to latest build process
+```
+
 ###### 2023.06.16 [v2.5.1]
 
 ```
