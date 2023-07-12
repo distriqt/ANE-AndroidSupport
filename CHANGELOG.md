@@ -1,3 +1,10 @@
+###### 2023.07.12 [v2.6.0]
+
+```
+feat(airpackage): add platforms to enable deployment restrictions to supported platforms
+feat(recaptcha): add recaptcha dependency lib v18.2.1
+```
+
 ###### 2023.07.04 [v2.5.2]
 
 ```
