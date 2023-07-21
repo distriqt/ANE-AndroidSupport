@@ -1,3 +1,10 @@
+###### 2023.07.21 [v2.7.0]
+
+```
+feat(androidx.core): update core lib to latest version 1.10.1
+feat(androidx.webkit): new androidx webkit dependency
+```
+
 ###### 2023.07.12 [v2.6.0]
 
 ```
