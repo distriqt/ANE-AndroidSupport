@@ -1,3 +1,10 @@
+###### 2023.10.24 [v2.7.1]
+
+```
+feat(x-healthconnect): update health connect to v1.1.0-alph05
+feat(x-work): update to include kotlin extensions
+```
+
 ###### 2023.07.21 [v2.7.0]
 
 ```
