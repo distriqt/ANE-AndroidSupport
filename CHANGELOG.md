@@ -1,3 +1,9 @@
+###### 2023.11.03 [v2.8.0]
+
+```
+feat(androidx.media3): add new androidx.media3 dependency
+```
+
 ###### 2023.10.24 [v2.7.1]
 
 ```

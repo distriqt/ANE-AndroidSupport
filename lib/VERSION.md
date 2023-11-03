@@ -23,6 +23,7 @@
 | androidx.emoji2 | 1.3.4 | 1.3.0 |  |
 | androidx.exifinterface | 1.3.604 | 1.3.6 |  |
 | androidx.healthconnect | 1.1.5 | 1.1.0-alpha05 |  |
+| androidx.media3 | 0.2.191 | 2.19.1 |  |
 | androidx.multidex | 2.0.105 | 2.0.1 |  |
 | androidx.recyclerview | 1.3.4 | 1.3.0 |  |
 | androidx.room | 2.5.104 | 2.5.1 |  |
