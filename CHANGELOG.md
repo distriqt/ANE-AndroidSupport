@@ -1,3 +1,9 @@
+###### 2023.11.29 [v2.8.1]
+
+```
+fix(guava): update guava dependencies to resolve crash on older Android versions
+```
+
 ###### 2023.11.03 [v2.8.0]
 
 ```

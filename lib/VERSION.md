@@ -6,7 +6,7 @@
 | com.google.dagger | 2.28.304 | 2.28.3 |  |
 | com.google.android.datatransport | 3.0.7 | 3.0.0 |  |
 | com.google.code.gson | 2.8.905 | 2.8.9 |  |
-| com.google.guava | 31.1.105 | 31.0.1 |  |
+| com.google.guava | 31.1.106 | 31.0.1 |  |
 | com.google.android.material | 1.6.4 | 1.6.0 |  |
 | com.google.protobuflite | 3.21.114 | 3.21.11 |  |
 | com.google.android.recaptcha | 18.2.102 | 18.2.1 |  |
