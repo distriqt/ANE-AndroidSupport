@@ -8,11 +8,12 @@
 | com.google.code.gson | 2.8.905 | 2.8.9 |  |
 | com.google.guava | 31.1.106 | 31.0.1 |  |
 | com.google.android.material | 1.6.4 | 1.6.0 |  |
-| com.google.protobuflite | 3.21.114 | 3.21.11 |  |
+| com.google.protobuflite | 3.21.120 | 3.21.12 |  |
 | com.google.android.recaptcha | 18.2.102 | 18.2.1 |  |
 | io.grpc | 1.52.104 | 1.52.1 |  |
 | com.android.installreferrer | 2.2.4 | 2.2.0 |  |
 | com.jetbrains.kotlin | 1.8.14 | 1.8.10 |  |
+| com.jetbrains.kotlinx | 1.4.1 | 1.4.1 | 0.0.0 |
 | io.reactivex | 2.0.206 | 2.0.2 |  |
 | androidx.appcompat | 1.6.104 | 1.6.1 |  |
 | androidx.browser | 1.5.4 | 1.5.0 |  |
@@ -20,6 +21,7 @@
 | androidx.concurrent | 1.1.7 | 1.1.0 |  |
 | androidx.constraintlayout | 2.1.404 | 2.1.4 |  |
 | androidx.core | 1.10.101 | 1.10.1 |  |
+| androidx.datastore | 1.0.0 | 1.0.0 | 0.0.0 |
 | androidx.emoji2 | 1.3.4 | 1.3.0 |  |
 | androidx.exifinterface | 1.3.604 | 1.3.6 |  |
 | androidx.healthconnect | 1.1.5 | 1.1.0-alpha05 |  |

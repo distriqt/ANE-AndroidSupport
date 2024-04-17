@@ -1,3 +1,10 @@
+###### 2024.04.17 [v2.8.2]
+
+```
+feat(datastore): add new androidx.datastore dependency
+feat(kotlinx): add new com.jetbrains.kotlinx dependency
+```
+
 ###### 2023.11.29 [v2.8.1]
 
 ```
