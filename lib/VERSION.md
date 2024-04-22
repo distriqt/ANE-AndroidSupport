@@ -12,8 +12,10 @@
 | com.google.android.recaptcha | 18.2.102 | 18.2.1 |  |
 | io.grpc | 1.52.104 | 1.52.1 |  |
 | com.android.installreferrer | 2.2.4 | 2.2.0 |  |
+| org.jacoco | 0.8.800 | 0.8.8 | 0.0.0 |
 | com.jetbrains.kotlin | 1.8.14 | 1.8.10 |  |
 | com.jetbrains.kotlinx | 1.4.1 | 1.4.1 | 0.0.0 |
+| org.ow2.asm | 9.2.0 | 9.2 | 0.0.0 |
 | io.reactivex | 2.0.206 | 2.0.2 |  |
 | androidx.appcompat | 1.6.104 | 1.6.1 |  |
 | androidx.browser | 1.5.4 | 1.5.0 |  |
@@ -27,6 +29,7 @@
 | androidx.healthconnect | 1.1.5 | 1.1.0-alpha05 |  |
 | androidx.media3 | 0.2.191 | 2.19.1 |  |
 | androidx.multidex | 2.0.105 | 2.0.1 |  |
+| androidx.privacysandbox | 1.1.0 | 1.1.0-beta06 | 0.0.0 |
 | androidx.recyclerview | 1.3.4 | 1.3.0 |  |
 | androidx.room | 2.5.104 | 2.5.1 |  |
 | androidx.transition | 1.4.106 | 1.4.1 |  |

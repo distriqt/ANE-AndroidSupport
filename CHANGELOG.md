@@ -1,3 +1,11 @@
+###### 2024.04.22 [v2.8.4]
+
+```
+feat(jacoco): add new org.jacoco dependency
+feat(ow2-asm): add new org.ow2.asm dependency
+feat(x-privacysandbox): add new androidx.privacysandbox dependency
+```
+
 ###### 2024.04.17 [v2.8.2]
 
 ```
