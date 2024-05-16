@@ -1,3 +1,13 @@
+###### 2024.05.16 [v2.9.0]
+
+```
+feat(kotlin): update kotlin coroutines libraries
+feat(core): update core androidx libs to v1.13.1 (and compatible)
+feat(datastore): update datastore androidx libs to v1.1.1
+feat(guava): update guava dependency libraries 
+feat(recyclerview): update recyclerview lib to v1.3.1
+```
+
 ###### 2024.04.22 [v2.8.4]
 
 ```
