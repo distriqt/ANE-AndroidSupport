@@ -13,6 +13,7 @@
 | io.grpc | 1.52.104 | 1.52.1 |  |
 | com.android.installreferrer | 2.2.4 | 2.2.0 |  |
 | org.jacoco | 0.8.800 | 0.8.8 | 0.0.0 |
+| io.insert.koin.koincore | 3.5.300 | 3.5.3 |  |
 | com.jetbrains.kotlin | 1.8.220 | 1.8.22 |  |
 | com.jetbrains.kotlinx | 1.4.1 | 1.4.1 | 0.0.0 |
 | org.ow2.asm | 9.2.0 | 9.2 | 0.0.0 |

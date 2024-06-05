@@ -1,3 +1,9 @@
+###### 2024.06.05 [v2.9.1]
+
+```
+feat(koin-core): add new dependency for io.insert-koin core library
+```
+
 ###### 2024.05.16 [v2.9.0]
 
 ```
