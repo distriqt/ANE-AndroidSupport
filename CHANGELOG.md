@@ -1,3 +1,10 @@
+###### 2024.09.19 [v2.9.2]
+
+```
+feat(dagger): update google dagger lib v2.41
+feat(x-recyclerview): update androidx recyclerview lib v1.3.2
+```
+
 ###### 2024.06.05 [v2.9.1]
 
 ```

@@ -3,7 +3,7 @@
 | Extension | Version | Android Lib | iOS Lib |
 | --- | --- | --- | --- |
 | com.bumptech.glide | 4.12.7 | 4.12.0 |  |
-| com.google.dagger | 2.28.304 | 2.28.3 |  |
+| com.google.dagger | 2.41.0 | 2.41 |  |
 | com.google.android.datatransport | 3.0.7 | 3.0.0 |  |
 | com.google.code.gson | 2.8.905 | 2.8.9 |  |
 | com.google.guava | 31.1.107 | 31.0.1 |  |
@@ -31,7 +31,7 @@
 | androidx.media3 | 0.2.191 | 2.19.1 |  |
 | androidx.multidex | 2.0.105 | 2.0.1 |  |
 | androidx.privacysandbox | 1.1.0 | 1.1.0-beta06 | 0.0.0 |
-| androidx.recyclerview | 1.3.100 | 1.3.1 |  |
+| androidx.recyclerview | 1.3.200 | 1.3.2 |  |
 | androidx.room | 2.5.104 | 2.5.1 |  |
 | androidx.transition | 1.4.106 | 1.4.1 |  |
 | androidx.vectordrawable | 1.1.6 | 1.1.0 |  |
