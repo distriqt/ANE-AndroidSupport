@@ -1,3 +1,14 @@
+###### 2024.12.05 [v3.0.0]
+
+```
+Major update - move to new gradle build process
+
+In this update we have moved all the extensions to use the newer gradle dependencies process. 
+
+feat: move to gradle dependencies
+feat(androidx.databinding): add new androidx.databinding dependency
+```
+
 ###### 2024.09.19 [v2.9.2]
 
 ```
