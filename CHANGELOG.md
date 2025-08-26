@@ -1,3 +1,10 @@
+###### 2025.08.26 [v3.1.0]
+
+```
+feat: update all builds for android 35 support
+feat(mediax): move to new mediax lib v1.8.0
+```
+
 ###### 2024.12.05 [v3.0.0]
 
 ```
